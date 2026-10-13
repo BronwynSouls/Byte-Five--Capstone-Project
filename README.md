@@ -20,6 +20,7 @@ The proposed infrastructure aims to ensure:
 •	Data protection through encryption, backups and tested recovery
 •	Efficient, documented IT support for all employees and departments
 Key recommendations include a business-grade router/firewall and 24-port managed switch, six VLANs on the 192.168.0.0/16 private range, an 8TB RAID NAS for central storage, UPS protection against load shedding, mandatory multi-factor authentication, full-disk encryption, managed endpoint detection and response, and regular restore testing.
+
 Business Requirements Analysis
 Company Overview
 Ubuntu Innovations (Pty) Ltd is a technology startup operating in Cape Town, South Africa. The company is experiencing growth and is relocating to a new office. The new office requires an IT environment that can support daily business operations while providing adequate security, reliability, scalability and data protection.
